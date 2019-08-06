@@ -1,0 +1,18 @@
+{
+    "Event": {
+        "Source": "data_Users",
+        "DateTime": "2018-04-14T10:25:30.3966667",
+        "Type": "DELETE"
+    },
+    "Record": {
+        "UserGuid": "7EF55FBE-CA63-4FD6-A6FC-E41A220A2C63",
+        "UserName": "UserName2",
+        "FirstName": "FirstName2",
+        "LastName": "LastName2",
+        "EMail": "Email2",
+        "SSN": "111-22-3002",
+        "DoB": "1990-03-04T00:00:00",
+        "DateCreated": "2018-04-13T19:40:38.6866667",
+        "DateUpdated": "2018-04-13T19:40:38.6866667"
+    }
+}

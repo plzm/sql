@@ -1,0 +1,22 @@
+{
+    "Event": {
+        "Source": "data_Users",
+        "DateTime": "2018-04-14T09:14:47.6900000",
+        "Type": "UPDATE"
+    },
+    "Record": {
+        "UserGuid": "2B80CE66-ACB8-4B2A-B214-31AFC387E8BA",
+        "UserName": "UserName10",
+        "FirstName": "FirstName10_v2",
+        "LastName": "LastName10_v2",
+        "EMail": "Email10",
+        "SSN": "111-22-3010",
+        "DoB": "1990-04-25T00:00:00",
+        "DateCreated": "2018-04-13T19:40:40.0033333",
+        "DateUpdated": "2018-04-13T19:40:40.0033333"
+    },
+    "Previous": {
+        "FirstName": "FirstName10",
+        "LastName": "LastName10"
+    }
+}
